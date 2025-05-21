@@ -3,3 +3,4 @@ flasgger
 pandas
 requests
 beautifulsoup4
+gunicorn
